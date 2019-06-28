@@ -1,4 +1,8 @@
 git:
   depth: 3
   quiet: true  
-language: generic
+  
+language: minimal
+
+services:
+  - docker
